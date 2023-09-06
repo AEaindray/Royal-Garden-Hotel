@@ -11,7 +11,7 @@ This is a full-stack hotel booking system built with React, Redux, Material UI, 
 
 ## Getting Started
 
-- Clone the repository: git clone https://github.com/HeinThuAung-11/HotelBooking.
+- Clone the repository: git clone https://github.com/AEaindray/Royal-Garden-Hotel .
 
 - Navigate to the backend directory: cd backend.
 
